@@ -1,0 +1,9 @@
+- Membuat kelas
+  file: Person.java
+
+- Membuat object
+  file: PersonApp.java
+
+- Field
+
+14:13
