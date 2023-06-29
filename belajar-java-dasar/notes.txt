@@ -84,5 +84,34 @@ Daftar Isi:
   file: DoWhileLoop.java
 
 - Break dan continue
+  file: Break.java
+        Continue.java
+
+- For Each
+  file: ForeEachLoop.java
+
+- Method
+  file: Method.java
+
+- Method Parameter
+  file: MethodParameter.java
+
+- Method Return Value
+  file: MethodReturnValue.java
+
+- Method Variable argument
+  file: MethodVariableArgument.java
+
+- Method Overloading
+  file: MethodOverloading.java
+
+- Method Recursive
+  file: MethodRecursive.java
+
+- Scope
+  file: Scope.java
+
+- Komentar
+  file: Komentar.java
 
 2:45
