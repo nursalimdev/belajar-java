@@ -29,7 +29,22 @@ Daftar Isi:
   file: Variable.java
 
 - Tipe data bukan primitif
+  file: TipeDataNonPrimitif.java
+
+- Tipe data Array
+  file: TipeDataArray.java
+
+- Operasi Matematika
+  file: OperasiMatematika.java
+
+- Augmented Assignment
+  file: AugmentedAssignment.java
+
+- Unary Operator --> operator yang ditempatkan sebelum variable dan tidak butuh 2 data
+  file: OperatorUnary.java
+
+- Operator perbandingan
+  file: OperatorPerbandingan.java
 
 
-  1:19
 
