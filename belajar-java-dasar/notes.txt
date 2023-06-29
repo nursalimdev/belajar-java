@@ -59,5 +59,30 @@ Daftar Isi:
 - Else statement
   file: IfElseStatement.java
 
+- ElseIf Statement
+  file: ElseIfStatement.java
 
-2:11
+- Switch Statement
+  file: SwitchStatement.java
+
+- Switch Lambda (Java 14)
+  file: SwitchLambda.java
+
+- Switch dengan yield
+  file: SwitchYield.java
+
+- Ternary Operator
+  file: TernaryOperator.java
+
+- For Loop
+  file: ForLoop.java
+
+- While Loop
+  file: WhileLoop.java
+
+- Do While Loop
+  file: DoWhileLoop.java
+
+- Break dan continue
+
+2:45
