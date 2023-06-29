@@ -1,0 +1,11 @@
+- Membuat Main class
+  file: AplikasiTodolist.java
+
+- Membuat Model
+
+- Membuat business logic
+  1. Menampilkan todolist
+  2. Tambah todolist
+  3. Hapus todolist
+
+- Menentukan view
