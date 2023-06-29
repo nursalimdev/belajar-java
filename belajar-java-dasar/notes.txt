@@ -1,0 +1,35 @@
+Daftar Isi:
+- Membuat program Hello World:
+  File: HelloWorld.java
+
+- Tipe Data Number:
+  - Integer number
+  - Floating number
+  - Literal number
+  - Underscore number
+  - Konversi tipe data number :
+    1. Widening casting (otomatis) : byte -> short -> int -> long -> float -> double
+    2. Narrowing casting (manual) : double -> float -> long -> int -> short -> byte
+  File: TipeDataNumber.java
+        KonversiTipeDataNumber.java
+
+- Tipe data character:
+  File: TipeDataKarakter.java
+
+- Tipe data boolean
+  File: TipeDataBoolean.java
+
+- Tipe data string
+  - Menggabungkan string
+  file: TipeDataString.java
+
+- Variable
+  - kata kunci var
+  - Kata kunci final
+  file: Variable.java
+
+- Tipe data bukan primitif
+
+
+  1:19
+
