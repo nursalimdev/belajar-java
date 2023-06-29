@@ -9,3 +9,5 @@
   3. Hapus todolist
 
 - Menentukan view
+
+38:00
