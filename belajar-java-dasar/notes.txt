@@ -113,5 +113,3 @@ Daftar Isi:
 
 - Komentar
   file: Komentar.java
-
-2:45
