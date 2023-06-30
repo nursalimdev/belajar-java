@@ -36,5 +36,18 @@
 - super constructor
   file: Manager.java, VicePresident.java
 
+- Object class
 
-1:00:00
+- Polymorphism
+  file: Employee.java, PolymorphismeApp.java
+
+- Type check & casting
+  file: PolymorphismeApp.java
+
+- Variable Hiding
+  file: Parent.java, Child.java
+
+- Package
+
+
+1:03:00
