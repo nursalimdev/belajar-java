@@ -66,6 +66,20 @@
   file: Category.java
 
 - Interface
+  file: Car.java, Avanza.java, CarApp.java
 
+- Interface Inheritance
+  file: HasBrand.java, IsMaintenance.java
+
+- Default Method
+  file: Car.java, Bus.java
+
+- ToString method
+  file: Product.java
+
+- Equals Method
+  file: EqualsApp.java
+
+- HashCode Method
 
 1:03:00
