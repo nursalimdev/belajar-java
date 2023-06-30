@@ -48,6 +48,24 @@
   file: Parent.java, Child.java
 
 - Package
+  file: nursalim/dev/data/Product.java
+
+- Access modifier
+  file: Product.java, ProductApp.java, Application.java
+
+- Import
+- Default import
+
+- Abstract Class
+  file: Location.java, City.java, AbstractClassApp.java
+
+- Abstract Method
+  file: Animal.java, Cat.java, AnimalApp.java
+
+- Getter and Setter
+  file: Category.java
+
+- Interface
 
 
 1:03:00
