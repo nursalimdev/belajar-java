@@ -82,4 +82,9 @@
 
 - HashCode Method
 
-1:03:00
+- final class
+  file: SocialMedia.java, Facebook.java, FakeFacebook.java
+
+- final method
+
+2:38:00
