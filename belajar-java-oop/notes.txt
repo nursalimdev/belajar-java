@@ -5,5 +5,36 @@
   file: PersonApp.java
 
 - Field
+  file: Person.java
 
-14:13
+- Manipulasi data Field
+  file: PersonApp.java
+
+- Method
+  file: Person.java
+
+- Constructor
+  file: Person.java
+
+- Constructor Overloading
+  file: Person.java
+
+- Memanggil constructor lain
+  file: Person.java
+
+- Variable shadowing
+
+- Inheritance
+  file: Manager.java, VicePresident.java, ManagerApp.java
+
+- Method Overriding
+  file: Manager.java, VicePresident.java, ManagerApp.java
+
+- super
+  file: Shape.java, Rectangle.java, ShapeApp.java
+
+- super constructor
+  file: Manager.java, VicePresident.java
+
+
+1:00:00
