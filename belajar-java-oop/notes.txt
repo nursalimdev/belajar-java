@@ -86,5 +86,21 @@
   file: SocialMedia.java, Facebook.java, FakeFacebook.java
 
 - final method
+  file: Facebook.java
 
-2:38:00
+- Inner class
+  file: Company.java, CompanyApp.java
+
+- Anonymous class
+  file: HelloWorld.java
+
+- static field
+  file: Constant.java
+
+- static method:
+  file: MathUtil.java
+
+- static inner class
+  file: Country.java
+
+2:58:00
