@@ -120,4 +120,10 @@
 - Exception
   file: ValidationException.java, ValidationUtil.java, ValidationApp.java
 
-3:01:00
+- Runtime Exception
+  file: BlankException.java
+
+- Error
+  file: DatabaseError.java
+
+4:02:00

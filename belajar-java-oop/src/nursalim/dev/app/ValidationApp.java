@@ -10,6 +10,10 @@ public class ValidationApp {
             ValidationUtil.validate(new LoginRequest("", null));
         } catch (ValidationException | NullPointerException e) {
             System.out.println("Terjadi error " + e.getMessage());
+        } finally {
+            System.out.println("Error gak error dipanggil");
         }
+
+        ValidationUtil.validateRuntime(new LoginRequest("", ""));
     }
 }
