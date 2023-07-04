@@ -112,6 +112,12 @@
   file: LoginRequest.java, RecordApp.java
 
 - Enum class
-  file: Level.java
+  file: Level.java, EnumApp.java
+
+- Enum members
+  file: Gender.java
+
+- Exception
+  file: ValidationException.java, ValidationUtil.java, ValidationApp.java
 
 3:01:00
