@@ -126,4 +126,13 @@
 - Error
   file: DatabaseError.java
 
+- try with resource (Java 7)
+  file: ReadFileApp.java
+
+- Annotation
+  file: Fancy.java, AnnotationApp.java
+
+- Reflection:
+  file: NotBlank.java, ValidationUtil.java, CreateUserRequest.java, ReflectionApp.java
+
 4:02:00
