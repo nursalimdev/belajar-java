@@ -103,4 +103,15 @@
 - static inner class
   file: Country.java
 
-2:58:00
+- static block
+  file: data.Application.java
+
+- static import
+
+- Record class (Java 14)
+  file: LoginRequest.java, RecordApp.java
+
+- Enum class
+  file: Level.java
+
+3:01:00
