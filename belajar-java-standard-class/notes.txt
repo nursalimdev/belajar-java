@@ -1,7 +1,35 @@
-- String
+- String class
   file: StringApp.java
 
-- StringBuffer & StringBuilder
+- StringBuffer & StringBuilder class
   file: StringBuilderApp.java
 
-- StringJoiner
+- StringJoiner class
+  file: StringJoinerApp.java
+
+- StringTokenizer class
+  file: StringTokenizerApp.java
+
+- Number class
+  file: NumberApp.java
+
+- Math class:
+  file: MathApp.java
+
+- BigNumber class:
+  file: BigNumberApp.java
+
+- Scanner class
+  file: ScannerApp.java
+
+- Date & Calendar class
+  file: DateApp.java
+
+- System class
+  file: SystemApp.java
+
+- Runtime class
+  file: RuntimeApp.java
+
+- UUID class
+  file: UUIDApp.java
