@@ -1,0 +1,2 @@
+- Generic Class
+  file: MyData.java, MyDataApp.java
