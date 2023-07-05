@@ -33,3 +33,21 @@
 
 - UUID class
   file: UUIDApp.java
+
+- Base64 class
+  file: Base64App.java
+
+- Objects class
+  file: ObjectsApp.java
+
+- Random class
+  file: RandomApp.java
+
+- Properties class
+  file: PropertiesApp.java
+
+- Arrays class
+  file: ArraysApp.java
+
+- Regex class
+  file: RegexApp.java
