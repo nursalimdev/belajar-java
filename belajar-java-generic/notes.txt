@@ -1,2 +1,25 @@
 - Generic Class
   file: MyData.java, MyDataApp.java
+
+- Multiple Parameter type
+  file: Pair.java, PairApp.java
+
+- Generic Method
+  file: ArrayHelper.java, ArrayHelperApp.java
+
+- Invariant
+  file: InvariantApp.java
+
+- Covariant -> subtitusi dari child ke parent
+  file: CovariantApp.java
+
+- Contravariant -> subtitusi dari parent ke child
+  file: ContravariantApp.java
+
+- Bounded Type parameter
+  file: NumberData.java, NumberDataApp.java
+
+- Multiple Bounded Type parameter
+  file: NumberAndStringApp.java
+
+00:11:00
