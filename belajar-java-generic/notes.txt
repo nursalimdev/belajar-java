@@ -22,4 +22,14 @@
 - Multiple Bounded Type parameter
   file: NumberAndStringApp.java
 
-00:11:00
+- Wildcard
+  file: WilcardApp.java
+
+- Type erasure
+  file: TypeErasureApp.java
+
+- Comparable (Mengurutkan)
+  file: Person.java, ComparableApp.java
+
+- Comparator
+  file: ComparatorApp
