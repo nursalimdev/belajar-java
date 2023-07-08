@@ -44,6 +44,27 @@
   file: DequeLinkedListApp.java
 
 - Map interface
-  file:
+  file: HashMapApp.java
 
-1:32:00
+- WeakHashMap
+  file: WeakHashMapApp.java
+
+_ IdentityHashMap
+  file: IdentityHashMapApp.java
+
+- LinkedHashMap
+  file: LinkedHashMapApp.java
+
+- EnumMap
+  file: EnumMapApp.java
+
+- ImmutableMap
+  file: ImmutableMapApp.java
+
+- SortedMap interface
+  file: SortedMapApp.java
+
+- Immutable SortedMap
+  file: ImmutableSortedMapApp.java
+
+1:58:00
