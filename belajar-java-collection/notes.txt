@@ -16,5 +16,34 @@
 - Enum set
   file: EnumSetApp.java
 
-- Immutable Set]
+- Immutable Set
+  file: ImmutableSet.java
+
+- Sorted Set
+  file: SortedSetApp.java
+
+- Immutable Sorted set
+  file: ImmutableSortedSetApp.java
+
+- NavigableSet interface
+  file: NavigableSetApp.java
+
+- Immutable NavigableSet
+  file: ImmutableNavigableSet.java
+
+- Queue interface
+  file: ArrayDequeueApp.java
+
+- PriorityQueue
+  file: PriorityQueueApp.java
+
+- LinkedList
+  file: LinkedListApp.java
+
+- Deque interface
+  file: DequeLinkedListApp.java
+
+- Map interface
   file:
+
+1:32:00
