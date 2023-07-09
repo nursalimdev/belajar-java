@@ -1,0 +1,6 @@
+- create project maven
+  - mvn archetype:generate
+  -maven-archetype-quickstart
+
+- create distribution file using single jar
+  mvn package assembly:single
