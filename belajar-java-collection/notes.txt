@@ -67,4 +67,41 @@ _ IdentityHashMap
 - Immutable SortedMap
   file: ImmutableSortedMapApp.java
 
-1:58:00
+- NavigableMap
+  file: NavigableMapApp.java
+
+- Immutable NavigableMap
+  file: ImmutableNavigableMapApp.java
+
+- Entry Map
+  file: EntryMapApp.java
+
+- Legacy Collection, Vector class
+  file: VectorApp.java
+
+- Hash Table
+  file: HashTableApp.java
+
+- Stack class
+  file: StackApp.java
+
+- Sorting
+  file: SortingListApp.java
+
+- Binary Search
+  file: BinarySearchApp.java
+
+- Collections class
+  file: CollectionsApp.java
+
+- Abstract Collection
+  file: SingleQueue.java, SingleQueueApp.java
+
+- Default Method
+  file: CollectionsDefaultMethodApp.java, MapDefaultMethodApp.java
+
+- Spliterator interface
+  file: SpliteratorApp.java
+
+- Konversi ke array
+  file: ListToArrayApp.java
