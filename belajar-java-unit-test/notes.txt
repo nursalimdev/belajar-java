@@ -1,0 +1,38 @@
+- Membuat test
+  file: Calculator.java, CalculatorTest.java
+
+- Menggunakan assertions
+  file: CalculatorTest.java
+
+- Menggagalkan test
+  file: CalculatorTest.java
+
+- Mengubah nama test
+  file: CalculatorTest.java
+
+- Menggunakan display name generator
+  file: SimpleDisplayNameGenerator.java, CalculatorTest.java
+
+- Menonaktifkan test
+  file: CalculatorTest.java
+
+- Sebelum dan sesudah test
+  file: CalculatorTest.java
+
+- sebelum dan setelah semua unit test
+  file: CalculatorTest.java
+
+- Membatalkan test
+  file: CalculatorTest.java
+
+- Menggunakan Assumption
+  file: CalculatorTest.java
+
+- Test berdasarkan kondisi (sistem operasi)
+  file: ConditionTest.java
+
+- Kondisi versi java
+  file: ConditionTest.java
+
+
+12:34
