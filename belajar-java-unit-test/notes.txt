@@ -34,5 +34,36 @@
 - Kondisi versi java
   file: ConditionTest.java
 
+- Kondisi sistem property
+  file: ConditionTest.java
+
+- Kondisi environment variable
+  file: ConditionTest.java
+
+- Menggunakan tag
+  file: SampleIntegrationTest.java
+  running: mvn test -Dgroups=integration-test
+
+- Mengurutkan test
+  file: LifecycleTest.java
+
+- Mengubah urutan eksekusi test
+  file: OrderedTest.java
+
+- Siklus Hidup test
+  file: OrderedTest.java
+
+- Test di dalam test
+  file: QueueTest.java
+
+- Informasi test
+  file: InformationTest.java
+
+- Dependency injection di test
+  file: RandomParameterResolver.java, RandomCalculatorTest.java
+
+- Pewarisan di test
+  file: 
+
 
 12:34
