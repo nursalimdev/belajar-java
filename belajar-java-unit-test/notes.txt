@@ -63,7 +63,20 @@
   file: RandomParameterResolver.java, RandomCalculatorTest.java
 
 - Pewarisan di test
-  file: 
+  file: AbstractCalculatorTest, RandomCalculatorTest.java
+
+- Test berulang
+  file: RandomCalculatorTest.java
+
+- Test dengan parameter
+  file: RandomCalculatorTest.java
+
+- Timeout di test
+  file: SlowTest.java
+
+- Eksekusi Test secara paralel
+  file:   
 
 
-12:34
+ 1:53:09
+
